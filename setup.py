@@ -2,11 +2,11 @@ import cx_Freeze
 from cx_Freeze import * 
 
 setup (
-    name = "Botnet__Scrapper",
+    name = "Filename",
 
     executables = [
         Executable(
-            "Discord bot.py", 
+            "File_Name.py", #<----please inter the file ame here
 
         )
 
